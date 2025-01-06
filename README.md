@@ -56,5 +56,12 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 - [PokéAPI](https://pokeapi.co/): API utilizada para obtener los datos de los Pokémon.
 - [Documentación de Flutter](https://docs.flutter.dev/): Recursos y guías para desarrollar en Flutter.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+## Subir la aplicación a UpToDown
+Se debe crear una cuenta como desarrollador en UPTODOWN CONSOLE
+![image](https://github.com/user-attachments/assets/eaa59a23-3317-4981-9e4d-b7ba8267331b)
+Dar click en add new app
+![image](https://github.com/user-attachments/assets/4c4ce7a0-0580-4067-8e4d-4da75d51d615)
+Subir la apk y esperar a que termine de cargar 
+![image](https://github.com/user-attachments/assets/2c98c7e8-996f-4777-aa69-d85a4286e92c)
+Por ultimo se espera la autorizacion de la pagina
+![image](https://github.com/user-attachments/assets/c594fc94-d9a0-44b6-b7cb-75b9790324a8)
